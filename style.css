@@ -1,3 +1,4 @@
+
 img{
     width: 100%;
     max-width: 100%;
@@ -206,7 +207,7 @@ img{
 .fun-facts{
     position: relative;
     padding: 120px 0;
-    background: url(../img/fun-bg.jpg);
+    background: url(fun-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -276,7 +277,7 @@ img{
     margin-right: 15px;
 }
 .choose-right{
-    background: url(../img/video-bg.jpg);
+    background: url(video-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -304,7 +305,7 @@ img{
     left: 45%;
 }
 .emergency-call{
-    background: url(../img/call-bg.jpg);
+    background: url(call-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -511,7 +512,7 @@ margin-top: 8px;
     width: 100%;
 }
 .client-sec{
-    background: url(../img/client-bg.jpg);
+    background: url(client-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
